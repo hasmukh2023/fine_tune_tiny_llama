@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+merged_model/
+finetuned_cpu/
 # Distribution / packaging
 .Python
 build/
